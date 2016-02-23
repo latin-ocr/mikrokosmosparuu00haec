@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mikrokosmosparuu00haec_0150.png"; bbox 0 0 2121 2762; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 497 312 1965 392">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 497 312 1965 392">
+     <span class='ocr_line' id='line_1_1' title="bbox 497 312 1965 392; baseline 0.016 -33"><span class='ocrx_word' id='word_1_1' title='bbox 497 312 915 362; x_wconf 71' lang='lat' dir='ltr'><em>HOMICIDA</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 956 323 1076 369; x_wconf 78' lang='lat' dir='ltr'><em>SVI</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1117 323 1347 376; x_wconf 69' lang='lat' dir='ltr'><em>IPSJVS</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1388 327 1653 378; x_wconf 22' lang='lat' dir='ltr'><em>VLTOR*</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1889 338 1965 392; x_wconf 55' lang='lat'><em>691</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 124 542 1956 1877">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 124 542 1956 1877">
+     <span class='ocr_line' id='line_1_2' title="bbox 124 542 1956 1877; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 124 542 1956 1877; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 404 2046 1645 2185">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 404 2046 1645 2185">
+     <span class='ocr_line' id='line_1_3' title="bbox 404 2046 1645 2177; baseline 0.007 -82"><span class='ocrx_word' id='word_1_7' title='bbox 404 2048 565 2098; x_wconf 59' lang='lat' dir='ltr'><em>&amp;mnis</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 573 2046 702 2101; x_wconf 79' lang='lat' dir='ltr'><em>enim</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 713 2051 796 2119; x_wconf 78' lang='lat' dir='ltr'><em>qui</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 805 2051 1034 2177; x_wconf 53' lang='lat' dir='ltr'><em>azceperit</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 1035 2049 1278 2124; x_wconf 72' lang='lat' dir='ltr'><em>gladium,</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 1282 2050 1447 2123; x_wconf 78' lang='lat' dir='ltr'><em>gladio</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 1445 2049 1645 2124; x_wconf 62' lang='lat' dir='ltr'><em>peribiffs</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 692 2131 1062 2185; baseline 0 -7"><span class='ocrx_word' id='word_1_14' title='bbox 692 2131 835 2178; x_wconf 62' lang='lat' dir='ltr'><em>eMat</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 873 2142 940 2185; x_wconf 61' lang='lat' dir='ltr'><em>aa,</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 983 2137 1062 2180; x_wconf 73' lang='lat'><em>26.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

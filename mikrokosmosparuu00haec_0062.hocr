@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mikrokosmosparuu00haec_0062.png"; bbox 0 0 2121 2762; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 279 245 1936 314">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 279 245 1936 314">
+     <span class='ocr_line' id='line_1_1' title="bbox 279 245 1936 314; baseline -0.002 -11"><span class='ocrx_word' id='word_1_1' title='bbox 279 245 632 303; x_wconf 78' lang='lat' dir='ltr'><em>PIETATIS</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 669 247 770 298; x_wconf 62' lang='lat' dir='ltr'><em>ET</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 805 247 1284 302; x_wconf 78' lang='lat' dir='ltr'><em>IMPIETATIS</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1313 246 1778 304; x_wconf 59' lang='lat' dir='ltr'><em>EXEMPLVM.</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1883 263 1936 314; x_wconf 73' lang='lat'><em>25</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 139 495 1990 1842">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 139 495 1990 1842">
+     <span class='ocr_line' id='line_1_2' title="bbox 139 495 1990 1842; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 139 495 1990 1842; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 160 1999 1950 2173">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 160 1999 1950 2173">
+     <span class='ocr_line' id='line_1_3' title="bbox 160 1999 1950 2087; baseline -0.007 -22"><span class='ocrx_word' id='word_1_7' title='bbox 160 2015 627 2081; x_wconf 61' lang='lat' dir='ltr'><em>glmjljterodiofimt</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 636 2012 930 2087; x_wconf 57' lang='lat' dir='ltr'><em>Demimpim</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 938 2010 997 2073; x_wconf 58' lang='grc' dir='ltr'><em>(ξ’</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1007 2008 1230 2078; x_wconf 53' lang='lat' dir='ltr'><em>impieta</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 1236 2004 1501 2075; x_wconf 64' lang='lat' dir='ltr'><em>ei‘usstdzll}</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 1512 2001 1618 2056; x_wconf 74' lang='lat' dir='ltr'><em>viri</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 1626 1999 1950 2073; x_wconf 56' lang='lat' dir='ltr'><em>mistricordiae</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 232 2075 1800 2173; baseline -0.005 -31"><span class='ocrx_word' id='word_1_14' title='bbox 232 2101 573 2173; x_wconf 56' lang='lat' dir='ltr'><em>stannthrnm</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 574 2096 777 2166; x_wconf 74' lang='lat' dir='ltr'><em>pietates</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 784 2107 882 2141; x_wconf 74' lang='lat' dir='ltr'><em>non</em></span> <span class='ocrx_word' id='word_1_17' title='bbox 892 2088 1273 2159; x_wconf 75' lang='lat' dir='ltr'><em>defuerunt.Sap.</em></span> <span class='ocrx_word' id='word_1_18' title='bbox 1287 2100 1347 2140; x_wconf 74' lang='lat'><em>14</em></span> <span class='ocrx_word' id='word_1_19' title='bbox 1364 2075 1800 2150; x_wconf 58' lang='lat' dir='ltr'><em>a.Ecclefi,·zst.44.b.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
